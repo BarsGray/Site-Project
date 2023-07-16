@@ -912,7 +912,7 @@ ul {
   cursor: pointer;
 }
 
-/* :hover,  */
+.questions__accord-item:hover,
 .questions__accord-item:active,
 .questions__accord-item:focus {
   outline: 0;
