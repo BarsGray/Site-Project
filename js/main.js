@@ -416,7 +416,7 @@ accordLink.forEach((elem) => {
 });
 
 function openAccordText(evt) {
-  // evt.preventDefault();
+  evt.preventDefault();
 
   let elemId = evt.currentTarget.dataset.id;
 
