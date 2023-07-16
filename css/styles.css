@@ -10,6 +10,8 @@ body {
   line-height: 24px;
   font-weight: 600;
   color: #1E1B1B;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: transparent;
 }
 
 a {
@@ -910,15 +912,6 @@ ul {
   background-color: #fff;
   position: relative;
   cursor: pointer;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
-  -webkit-tap-highlight-color: transparent;
-}
-
-.questions__accord-item:hover,
-.questions__accord-item:active,
-.questions__accord-item:focus {
-  outline: none !important;
-  outline-offset: none !important;
 }
 
 .questions__accord-item::before {
