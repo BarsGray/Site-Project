@@ -110,7 +110,7 @@ const sliderLine = document.querySelector('.reviews__slider-line');
 const reviewsSlide = document.querySelectorAll('.reviews__slider-item');
 const sliderButtons = document.querySelector('.reviews__slider-buttons');
 
-// +++++ Options!!! +++
+// +++++ Options!!! ghp_885a0nfky74X +++
 
 let slideShowQuantity = 2;
 let slideShowCount = 2;
